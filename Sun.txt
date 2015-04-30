@@ -1,2 +1,3 @@
 Bug has been fixed.
 Sun Feature 0.2
+Some more things added
