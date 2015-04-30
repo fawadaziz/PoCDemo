@@ -1,1 +1,2 @@
-Bug has been fixed
+Bug has been fixed.
+Sun Feature 0.2
